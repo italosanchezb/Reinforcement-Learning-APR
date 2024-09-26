@@ -1,0 +1,10 @@
+---
+title : Felices 6 meses juntos
+subtitle : Te amo
+description : Gracias por este tiempo, espero sean 6 años más
+date : last-modified
+author: 
+    name : Ítalo y Jazmín
+title-block-banner : "#ff55ff"
+
+---
